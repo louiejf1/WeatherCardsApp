@@ -1,4 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&family=Raleway:wght@100&family=Yellowtail&display=swap');
+
 .App {
-  font-family: sans-serif;
+  font-family: 'Noto Sans JP', sans-serif;
   text-align: center;
 }
